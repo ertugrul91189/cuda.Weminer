@@ -1,0 +1,11 @@
+# Pool settings
+stratum+tcp://sg.luckypool.io:5118    # Pool address (replace if needed)
+
+# Username 
+devweminer              # change for naming your own pool account with receiving address or username for clc wallet)
+
+# Password
+xyz                # Password for the pool (sometimes needed for payments)
+
+# Worker name
+defaultworker           # Worker name (your miner ID visible on the pool)
